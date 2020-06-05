@@ -7,3 +7,4 @@ A lot of work still need to be done:
 3. Add multithreading
 4. Add other websites
 5. Add multiprocessing
+etc.
