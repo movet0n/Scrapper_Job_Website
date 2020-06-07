@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 from src.decorators import total_runtime
 
 
+class AmazonSpider(scrapy.Spider)
+
+
 @total_runtime
 def scrapper_rabota_ua(keyword):
     url_rabota_ua = f"https://rabota.ua/jobsearch/vacancy_list?keyWords={keyword}"
